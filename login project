@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>stephen</title>
+    <style>
+    .login{border: 1px solid black;
+    width: 400px; 
+height: 500px;
+background: url(C:\Users\admin\OneDrive\Desktop\pic.jpeg)
+color: white;
+border-radius: 20px;
+box-shadow: 0px 0px 20px rgba(red, green, blue, alpha);
+background-size: cover
+overflow: hidden;}
+form{
+    display: block;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: brightness(40%);
+    flex-direction: column;
+    display: flex;
+}
+h1{font-weight:normal;
+font-size: 24px;
+text-shadow: 0px 0px 2px rgba(red, green, blue, alpha);
+margin-bottom: 60px;}
+label{color:rgba(red, green, blue, alpha) ;
+text-transform: uppercase;
+font-size: 10px;
+letter-spacing: 2px;
+padding-left: 10px;}
+input{background: rgba(red, green, blue, alpha);
+height: 40px;
+line-height:40px ;
+border-radius: 20px;
+padding: 0px 20px;
+border: none;
+margin-bottom: 20px;
+color: black;}
+button{background: rgb(red, green, blue);
+height: 40px;
+line-height: 40px;
+border-radius: 40px;
+border: none;
+margin: 10px 0px;
+box-shadow: 0px 0px 5px rgba(red, green, blue, alpha);
+color: rgb(255, 255, 255);
+font-size: 12px;
+text-transform: uppercase;}
+
+
+    </style>
+
+</head>rtrey
+<body>
+    <div class="login">
+        <form > 
+            <h1>LOG IN</h1>
+            <label>Username</label>
+            <input type="type">
+            <labe>Password</label>
+                <input type="password">
+                <button>Submit</button>
+            </div>   
+        </form>
+
+
+
+    </div>
+    
+    <boby>
+</html>
